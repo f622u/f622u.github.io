@@ -1,0 +1,1 @@
+.news .switch{overflow:hidden;white-space:nowrap;display:none;font-size:0}.news .switch .list-wrap{transform:translateX(0);transition:transform .5s ease}.news .switch .list-wrap .list{display:inline-block;width:550px}.news .switch.active{display:block}.news .pagination li{cursor:pointer}
